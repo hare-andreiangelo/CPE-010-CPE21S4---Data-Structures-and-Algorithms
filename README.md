@@ -1,6 +1,7 @@
-# CPE-010-CPE21S4---Data-Structures-and-Algorithms
+CPE 010 - CPE21S4
 
-<img width="826" height="394" alt="image" src="https://github.com/user-attachments/assets/935b072e-5bf6-40ef-8319-f8420869b95a" />
+<img width="826" height="376" alt="image" src="https://github.com/user-attachments/assets/f029042d-4627-4978-a8d3-bb2b8aa179e9" />
+
 
 
 Course Description
