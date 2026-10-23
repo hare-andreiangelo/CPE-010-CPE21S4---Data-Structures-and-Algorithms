@@ -14,7 +14,7 @@ student's outcome is to design algorithms for each data structure and to use dat
 effective program or software application that will solve a particular engineering-related problem using C++**
 
 
-<img width="473" height="68" alt="image" src="https://github.com/user-attachments/assets/2d7e22ef-7546-46af-8fce-a36b3184c738" />  
+<img width="473" height="68" alt="image" src="https://github.com/user-attachments/assets/2d7e22ef-7546-46af-8fce-a36b3184c738" />  /
 
 
 <img width="200" height="44" alt="image" src="https://github.com/user-attachments/assets/7f0f1c6d-be74-4dfc-8554-a5ba2f256873" />
