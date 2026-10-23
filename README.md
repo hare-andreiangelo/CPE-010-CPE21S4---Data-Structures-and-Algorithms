@@ -19,13 +19,18 @@ effective program or software application that will solve a particular engineeri
 <img width="473" height="68" alt="image" src="https://github.com/user-attachments/assets/2d7e22ef-7546-46af-8fce-a36b3184c738" />
 
 
+
 <img width="200" height="44" alt="image" src="https://github.com/user-attachments/assets/7f0f1c6d-be74-4dfc-8554-a5ba2f256873" />
 
 **Course orientation, C++ programming review, abstract data types, space and time complexity, arrays, linked lists, dynamic memory allocation, and stacks.
 **
+
+
 <img width="248" height="44" alt="image" src="https://github.com/user-attachments/assets/80093ef0-bc7c-4a3d-90e7-14a1a221c85e" />
 
 **Queues, searching techniques, linear search, binary search, hashing, and basic sorting algorithms.**
+
+
 
 <img width="166" height="44" alt="image" src="https://github.com/user-attachments/assets/e54229d1-b36e-4be3-83b4-e32ef85900e5" />
 
