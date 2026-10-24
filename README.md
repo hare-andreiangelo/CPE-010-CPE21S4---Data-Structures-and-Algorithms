@@ -60,11 +60,75 @@ and Stacks
 
 <img width="248" height="44" alt="image" src="https://github.com/user-attachments/assets/80093ef0-bc7c-4a3d-90e7-14a1a221c85e" />
 
-**Queues, searching techniques, linear search, binary search, hashing, and basic sorting algorithms.**
+
+
+
+
+Queues 
+
+
+
+Searching techniques
+
+
+
+Linear search
+
+
+
+Binary search
+
+
+
+Hashing
+
+
+
+and Basic Sorting Algorithms
+
+
 
 
 
 
 <img width="166" height="44" alt="image" src="https://github.com/user-attachments/assets/e54229d1-b36e-4be3-83b4-e32ef85900e5" />
 
-**Trees, binary search trees, AVL trees, traversal algorithms, graphs, adjacency matrix and list, breadth-first search, depth-first search, and algorithm complexity analysis.**
+
+
+
+
+Trees
+
+
+
+Binary search trees
+
+
+
+AVL trees 
+
+
+
+Traversal algorithms
+
+
+
+Graphs
+
+
+
+Adjacency matrix and list
+
+
+
+Breadth-first search
+
+
+
+Depth-first search
+
+
+
+and Algorithm Complexity Analysis
+
+
