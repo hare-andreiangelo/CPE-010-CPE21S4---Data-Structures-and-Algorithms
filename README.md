@@ -19,7 +19,41 @@ effective program or software application that will solve a particular engineeri
 
 <img width="200" height="44" alt="image" src="https://github.com/user-attachments/assets/7f0f1c6d-be74-4dfc-8554-a5ba2f256873" />
 
-**Course orientation, C++ programming review, abstract data types, space and time complexity, arrays, linked lists, dynamic memory allocation, and stacks.**
+
+
+
+
+Course orientation
+
+
+
+C++ programming review
+
+
+
+Abstract data types 
+
+
+
+Space and time complexity 
+
+
+
+Arrays 
+
+
+
+Linked lists
+
+
+
+Dynamic memory allocation
+
+
+
+and Stacks
+
+
 
 
 
